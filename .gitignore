@@ -10,3 +10,9 @@ __pycache__
 cdk.out
 venv/
 gcp/credencials.json
+gcp/credencials.json
+gcp/variables.tfvars
+gcp/terraform.tfstate
+gcp/terraform.tfstate.backup
+.terraform
+gcp/.terraform.lock.hcl
