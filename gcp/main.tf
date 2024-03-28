@@ -15,7 +15,7 @@ resource "google_workbench_instance" "instance" {
   location = var.zone
 
   gce_setup {
-    machine_type = "n2d-highmem-2" // cant be e2 because of accelerator
+    machine_type = "n2d-highmem-2" // Type de machine
     //accelerator_configs {
       //type         = "NVIDIA_TESLA_T4"
       //core_count   = 1
