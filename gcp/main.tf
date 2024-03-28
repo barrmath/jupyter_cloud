@@ -63,7 +63,7 @@ resource "google_workbench_instance" "instance" {
 
   }
 
-  disable_proxy_access = "true"
+  disable_proxy_access = "false"
 
   //instance_owners  = [ "my@service-account.com"]
 
