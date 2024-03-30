@@ -1,3 +1,6 @@
+# CDK asset staging directory
+.cdk.staging
+cdk.out
 *.swp
 package-lock.json
 __pycache__
@@ -5,9 +8,6 @@ __pycache__
 .venv
 *.egg-info
 
-# CDK asset staging directory
-.cdk.staging
-cdk.out
 venv/
 gcp/credencials.json
 gcp/credencials.json
