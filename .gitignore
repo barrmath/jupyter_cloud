@@ -3,5 +3,5 @@ gcp/variables.tfvars
 gcp/terraform.tfstate
 gcp/terraform.tfstate.backup
 .terraform
-gcp/.terraform.lock.hcl
+.terraform.lock.hcl
 gcp/credentials.json
